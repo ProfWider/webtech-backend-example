@@ -1,1 +1,3 @@
 # webtech-backend-example
+
+Das ist meine Projektidee. Unsere App kann ...
